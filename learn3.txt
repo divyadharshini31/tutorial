@@ -1,0 +1,6 @@
+n=[12,14,2,4]
+res=[]
+for i in n:
+  if i in res:
+  rse.append(i)
+print(res)
