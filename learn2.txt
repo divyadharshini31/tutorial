@@ -1,0 +1,4 @@
+for i in n:
+  if i in res:
+  rse.append(i)
+print(res)
